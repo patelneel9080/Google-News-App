@@ -1,16 +1,30 @@
-# news_snack
+# Simple News Application
 
-A new Flutter project.
+Welcome to the Google News Application.
 
-## Getting Started
+## Table of Contents
+- Features
+- Samples
+- Contribution
 
-This project is a starting point for a Flutter application.
+## Features
+- Explore News
+- Intuitive UI for ease of use.
+- Easy to use.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Pictures of application 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/patelneel9080/Google-News-App/assets/136300996/7caa5205-b754-4ef5-932a-f0453622ece8" width = "100%"/>
+
+
+
+
+## Contribution
+We welcome all contributions. Here's how you can help:
+
+- Fork this repository.
+- Make your changes in your forked repo.
+- Submit a pull request here.
+
+
